@@ -1,0 +1,1 @@
+window.AppConfig = {name: "World"};
